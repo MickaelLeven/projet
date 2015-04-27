@@ -19,6 +19,7 @@ class Eleve extends Animateur{
         return $this->entreprise;
     }
     
+    //echo totoo
     public function setEntreprise($entreprise){
         $this->entreprise = $entreprise;
     }
